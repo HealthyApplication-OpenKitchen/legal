@@ -1,0 +1,125 @@
+Privacy Policy for Open Kitchen
+
+Last updated: June 2026
+
+1. Data Controller
+The data controller responsible for your personal data is:
+Konstantin Brussig Email: support@healthyapp.info
+
+2. Overview
+This Privacy Policy explains how Open Kitchen (“the App”) collects, uses, and protects your information when you use the App.
+By using Open Kitchen, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+3. Information We Collect
+We collect and process the following types of data:
+
+3.1 Account Information
+When you create an account, we collect:
+Unique user identifier (Firebase UID)
+Email address (if using Google sign-in)
+Profile information (e.g., username, profile picture)
+
+3.2 Public Profile Data (“Kitchen”)
+Your profile may be publicly visible and can include:
+Username
+Profile image
+Description (if provided)
+Activity related to recipes and interactions
+
+3.3 User-Generated Content
+We collect and store content you create in the App, including:
+Recipes (titles, ingredients, instructions)
+Images uploaded to recipes
+Interactions (e.g., likes, saves)
+Followers / social connections (“guests” and “kitchens” system)
+
+3.4 Usage Data
+We may collect information about how you use the App, including:
+App screens viewed
+Interactions with features (e.g., saving recipes)
+
+3.5 Device and Technical Data
+We may automatically collect:
+Device type and model
+Operating system version
+Crash logs and error reports
+IP address
+App version
+
+4. How We Use Your Data
+We use your data to:
+Provide and operate the Open Kitchen app
+Create and manage user accounts
+Display public profiles and recipes
+Enable social features (followers, interactions)
+Store and synchronize user-generated content
+Improve app performance and user experience
+Detect, prevent, and fix technical issues
+Ensure security and prevent abuse
+
+5. Firebase and Third-Party Services
+We use the following third-party services provided by Google:
+Firebase Authentication (user login and account management)
+Cloud Firestore (data storage for recipes and profiles)
+Firebase Cloud Storage (image storage)
+Firebase Analytics (usage analysis, only if consent is given)
+Firebase Crashlytics (crash reporting and stability monitoring)
+Firebase App Check (security and abuse prevention) 
+Firebase SQL connect (data storage for recipes and profiles)
+These services may process your data on our behalf and may store data outside the European Economic Area (EEA).
+
+6. Analytics and Consent
+We use Firebase Analytics only if you provide consent.
+You can:
+Enable or disable analytics tracking at any time in the app settings
+Analytics data is used to:
+Understand how users interact with the App
+Improve features and performance
+
+7. Advertising
+Open Kitchen does not use advertising or third-party ad networks.
+
+8. Data Sharing
+We do not sell your personal data.
+We may share data only with:
+Google Firebase services (for app functionality and infrastructure)
+Legal authorities if required by law
+
+9. Data Retention
+We retain your data only as long as necessary:
+Account data: until account deletion
+Recipes and content: until deleted by the user or account removal
+Analytics data: according to Firebase retention policies and consent settings
+Crash reports: for debugging and stability purposes
+You may request deletion of your account and associated data at any time.
+
+10. Your Rights Under GDPR
+If you are located in the European Union, you have the following rights:
+Right to access your data
+Right to correct inaccurate data
+Right to request deletion (“right to be forgotten”)
+Right to restrict processing
+Right to data portability
+Right to withdraw consent (where applicable)
+To exercise these rights, contact: support@healthyapp.info
+
+11. Data Security
+We implement reasonable technical and organizational measures to protect your data, including:
+Authentication systems
+Access control mechanisms
+Secure communication with backend services
+However, no system can guarantee absolute security.
+
+12. Children’s Privacy
+Open Kitchen is not intended for children under 13 (or the applicable age of digital consent in your country). We do not knowingly collect data from children.
+
+13. International Data Transfers
+Your data may be processed outside the European Economic Area (EEA), including by Google Firebase infrastructure. Where required, appropriate safeguards are applied in accordance with GDPR.
+
+14. Changes to This Policy
+We may update this Privacy Policy from time to time.
+Changes will be published within the App and become effective upon publication.
+
+15. Contact
+If you have any questions about this Privacy Policy or your data, contact:
+Healthy App Email: support@healthyapp.info
